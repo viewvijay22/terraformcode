@@ -1,4 +1,3 @@
-/*
 terraform {
   required_providers {
     aws = {
@@ -20,4 +19,3 @@ resource "aws_instance" "example" {
     Name = var.instance_name
   }
 }
-*/
