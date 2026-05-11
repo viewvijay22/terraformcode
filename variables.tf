@@ -1,3 +1,4 @@
+/*
 variable "region" {
   description = "AWS region"
   type        = string
@@ -21,3 +22,4 @@ variable "instance_name" {
   type        = string
   default     = "MyEC2Instance"
 }
+*/
